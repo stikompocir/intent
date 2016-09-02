@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contoh Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Hapus</string>
+    <string name="title_activity_sub1">Sub1Activity</string>
+    <string name="title_activity_sub2">Sub2Activity</string>
+</resources>
